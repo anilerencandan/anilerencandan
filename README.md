@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilerencandan&show_icons=true&locale=en" alt="anilerencandan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilerencandan&" alt="anilerencandan" /></p>
+
+
+![snake gif](https://github.com/anilerencandan/anilerencandan/blob/output/github-contribution-grid-snake.gif)
