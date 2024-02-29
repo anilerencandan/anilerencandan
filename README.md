@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/anilerencandan/foto/blob/main/bannefr.png?raw=true)
+![MasterHead](https://github.com/anilerencandan/foto/blob/main/bannefr.png?raw=true)
 <h1 align="center">Hi, I'm Anıl</h1>
 <h3 align="center">A business intelligence analyst from Türkiye</h3>
 
