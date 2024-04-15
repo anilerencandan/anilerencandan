@@ -2,13 +2,11 @@
 <h1 align="center">Hi, I'm Anıl</h1>
 <h3 align="center">A business intelligence analyst from Türkiye</h3>
 
-- 🌱 I’m currently learning **business intelligence skills**
+- I’m currently learning **business intelligence skills**
 
-- 💬 Ask me about **BI and data analysis**
+- Ask me about **BI and data analysis**
 
-- 📫 How to reach me **anilerencandan1@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/qFGR5](https://shorturl.at/qFGR5)
+- How to reach me **anilerencandan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
